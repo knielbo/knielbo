@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kristoffer
 - 👀 I’m interested in solving research problems originating in humanities and social sciences
-- 🌱 I’m currently learning Cuda
+- 🌱 I’m currently learning CUDA
 - 📫 How to reach me: kln@cas.au.dk
 
 <!---
